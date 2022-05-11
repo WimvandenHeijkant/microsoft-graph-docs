@@ -25,6 +25,8 @@ One of the following permissions is required to call this API. To learn more, in
 | Delegated (personal Microsoft account) | Not supported. |
 | Application                            | EntitlementManagement.ReadWrite.All |
 
+> **Note:** Additional permissions might be required depending on the resource you are adding. Additional permissions specified in document below where applicable.
+
 ## HTTP request
 
 <!-- { "blockType": "ignored" } -->
